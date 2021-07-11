@@ -40,6 +40,7 @@ h4 {
 }
 
 button {
+    cursor: pointer;
     font-size: 18px;
     background-color: #FF5A5F;
     color: #FFFFFF;
