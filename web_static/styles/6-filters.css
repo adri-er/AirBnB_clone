@@ -19,7 +19,7 @@
     border-right: 1px solid #DDDDDD;
 }
 
-.amenities {
+.amenities_search {
     display: flex;
     flex-direction: column;
     height: 100%;
