@@ -56,6 +56,13 @@ article {
     text-align: center;
 }
 
+.heading_places_house {
+    font-size: 30px;
+    margin: 5% auto auto 28%;
+    padding: 0;
+    text-align: center;
+}
+
 .information {
     display: flex;
     flex-direction: row;
